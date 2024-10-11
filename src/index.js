@@ -10,6 +10,7 @@ const produtosDisponiveis = [
 
 // Carrinho de compras como um array de objetos.
 let carrinho = [];
+
 let executar = true;
 
 //Crio função para adicionar produto ao carrinho.
@@ -44,4 +45,4 @@ while (executar = true) {
 }
 console.log(carrinho);
 
-//Funcionalidade - Vizualizar carrinho
+//Funcionalidade - Vizualizar carrinho (a ser desenvolvida).
